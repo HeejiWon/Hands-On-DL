@@ -16,14 +16,14 @@ on Sundays 16:00 ~
 
 ## 📚 Materials 
 - 핸즈온 머신러닝 2 (Hands-On Machine Learning 2)
-- 밑바닥부터 시작하는 딥러닝 3 (Deep Learning from Scratch 3))
 - CMU 11-785 Introduction to Deep Learning Fall 2020 [[syllabus]](https://deeplearning.cs.cmu.edu/F20/index.html)
+- 밑바닥부터 시작하는 딥러닝 3 (Deep Learning from Scratch 3))
 
 <br/>
 
 ## 📕 Study Schedule
 
-|       Date       | week | Topic | Presenters | Slides |
+|       Date       | Session | Topic | Presenters | Slides |
 |:----------------:|:------:|:----------------------------------------:|:----------:|:------:|
 | 2021.01.03 | 1 | - Neural Networks with Keras (HOML)  <br/> - history of Neural Networks (CMU) | 원희지 | [Slide_HOML](https://github.com/changdaeoh/HandsOn_DL/blob/main/slide/DL001_s1_MLP.pdf)<BR/>[Slide_CMU](https://github.com/changdaeoh/HandsOn_DL/blob/main/slide/DL001_s1_lec1_Introduction.pdf) | 
 | 2021.01.10 | 2 | - Training Neural Networks (HOML)  <br/> - Neural Networks : What can a network represent (CMU) | 오창대 | [Slide_HOML](https://github.com/changdaeoh/HandsOn_DL/blob/main/slide/DL001_s2_TrainingNN.pdf)<BR/>[Slide_CMU](https://github.com/changdaeoh/HandsOn_DL/blob/main/slide/DL001_s2_lec2_neural_networks.pdf) |
@@ -33,3 +33,14 @@ on Sundays 16:00 ~
 | 2021.02.07 | 6 | - NLP with using RNN & Attention (HOML)  <br/> - Optimization part2 (CMU) | 오창대 | [Slide_HOML](https://github.com/changdaeoh/HandsOn_DL/blob/main/slide/DL001_s6_NLP.pdf)<BR/>[Slide_CMU](https://github.com/changdaeoh/HandsOn_DL/blob/main/slide/DL001_s6_lec7_Normalization%2CRegularization1.pdf) | 
 | 2021.02.14 | 7 | - AutoEncoder and GAN (HOML)  <br/> - Normalization & Regularization (CMU) | 원희지 | [Slide_HOML](https://github.com/changdaeoh/HandsOn_DL/blob/main/slide/DL001_s7_Autoencoder_Gan.pdf)<BR/>[Slide_CMU](https://github.com/changdaeoh/HandsOn_DL/blob/main/slide/DL001_s7_lec8_Normalization_Regularization_2.pdf)
 | 2021.02.21 | 8 | - Reinforcement Learning (HOML)  <br/> - CNN (CMU) | 오창대 | [Slide_HOML](https://github.com/changdaeoh/HandsOn_DL/blob/main/slide/DL001_s8_Reinforcement_Learning.pdf) |
+| 2021.03.07 | 9 | - lec10, 11 : CNNs  | 원희지 | [Slide](https://github.com/changdaeoh/HandsOn_DL/blob/main/slide/DL001_s9_lec10-11_CNN.pdf) |
+| 2021.03.14 | 10 | - lec12 : Backpropagation in CNN <br/> - lec13 : RNN intro | 오창대 | [Slide1](https://github.com/changdaeoh/HandsOn_DL/blob/main/slide/DL001_s10_lec12_backprop_in_CNN.pdf)<br/>[Slide2](https://github.com/changdaeoh/HandsOn_DL/blob/main/slide/DL001_s10_lec13_RNN.pdf) |
+| 2021.03.21 | 11 | - lec14 : Behavior of Vanilla RNN & LSTM <br/> - lec15 : Loss Function for RNN, Sequence prediction | 원희지 | [Slide](https://github.com/changdaeoh/HandsOn_DL/blob/main/slide/DL001_s11_lec14_15.pdf) |
+| 2021.04.04 | 12 | - lec16 : Speech Recognition 1 | 원희지 | [Slide](https://github.com/changdaeoh/HandsOn_DL/blob/main/slide/DL001_s11_lec16.pdf) |
+| 2021.04.11 | 13 | - lec17 : Speech Recognition 2 | 오창대 | [Slide](https://github.com/changdaeoh/HandsOn_DL/blob/main/slide/DL001_s11_lec17.pdf) |
+| 2021.05.02 | 14 | - lec18 : Neural Machine Translation & Attention | 오창대 | [Slide](https://github.com/changdaeoh/HandsOn_DL/blob/main/slide/DL001_s14_lec18_nmt_attention.pdf) |
+| 2021.05.09 | 15 | - lec19 : Auto Encoder & Representation Learning<br/>- lec21 : Variational Auto Encoder (part1) | 원희지 | [Slide1](https://github.com/changdaeoh/HandsOn_DL/blob/main/slide/DL001_s15_lec19.pdf)<br/>[Slide2](https://github.com/changdaeoh/HandsOn_DL/blob/main/slide/DL001_s15_lec21.pdf) |
+| 2021.05.16 | 16 | - lec22 : Variational Auto Encoder (part2) | 원희지 | [Slide](https://github.com/changdaeoh/HandsOn_DL/blob/main/slide/DL001_s16_lec22.pdf) |
+| 2021.05.23 | 17 | - lec23 : Generative Adversarial Networks (part1) | 오창대 | [Slide](https://github.com/changdaeoh/HandsOn_DL/blob/main/slide/DL001_s17_lec23.pdf) |
+| 2021.05.30 | 18 | - lec24 : Generative Adversarial Networks (part2) | 오창대 | [Slide](https://github.com/changdaeoh/HandsOn_DL/blob/main/slide/DL001_s18_lec24.pdf) |
+| 2021.06.06 | 19 | - lec25, 26 : Hopfield Nets and Boltzmann Machines | - | - |
